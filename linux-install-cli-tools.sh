@@ -6,7 +6,7 @@ sudo apt-get -y autoremove
 sudo apt-get install -y build-essential cmake
 
 sudo apt-get install -y unzip
-
+sudo apt-get install -y ssh openssh-server
 sudo apt-get install -y faketime htop lshw pdftk wget
 
 sudo apt-get install -y git
